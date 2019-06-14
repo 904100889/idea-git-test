@@ -12,5 +12,6 @@ public class TestGit {
         System.out.println(i+1);
         System.out.println("加油呀");
         System.out.println("希望可以在长沙找到一份好工作");
+        System.out.println("不能再让爸妈失望了");
     }
 }
